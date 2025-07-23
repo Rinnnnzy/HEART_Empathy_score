@@ -16,7 +16,7 @@
 
 1. 根据[HEART分类法](https://arxiv.org/abs/2405.17633)设计文本共情力评分指标
 
-指标如下：
+  指标如下：
 - Vividness of emotions
 - Vividness of setting
 - Character vulnerability
