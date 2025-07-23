@@ -1,5 +1,5 @@
 # HEART 共情力打分模型
-![模型演示](https://gitee.com/turbo-studio/image/raw/master/image/评分演示.gif)
+![模型演示]()
 
 ## 项目背景：
 在社交媒体上，人们热衷分析人生经历与感悟。高热度文章常以触发情绪、引发共鸣的文字为特征。
