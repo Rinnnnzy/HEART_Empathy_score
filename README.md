@@ -17,15 +17,15 @@
 1. 根据[HEART分类法](https://arxiv.org/abs/2405.17633)设计文本共情力评分指标
 
 指标如下：
--Vividness of emotions
--Vividness of setting
--Character vulnerability
--Cognition
--Optimistic tone
--Plot volume
--Resolution
--Character development
--Emotion shifts
+- Vividness of emotions
+- Vividness of setting
+- Character vulnerability
+- Cognition
+- Optimistic tone
+- Plot volume
+- Resolution
+- Character development
+- Emotion shifts
 
 2. 运用[deepeval](https://github.com/confident-ai/deepeval)搭建好的DAG算法框架构建评分框架
 
@@ -35,9 +35,9 @@
 
 ---
 ### To do list
--细化指标分数设定与prompt
--LLM裁判易对环境描述、人类认知描述产生误判。需引入机器学习等更复杂的方法训练模型
--共情还关系读者自身的共情能力，相似经历与文化背景等。需描绘用户画像。根据用户特征动态调整评分标准
--落实到社交媒体等应用场景。利用打分系统进行文本热度预测
+- 细化指标分数设定与prompt
+- LLM裁判易对环境描述、人类认知描述产生误判。需引入机器学习等更复杂的方法训练模型
+- 共情还关系读者自身的共情能力，相似经历与文化背景等。需描绘用户画像。根据用户特征动态调整评分标准
+- 落实到社交媒体等应用场景。利用打分系统进行文本热度预测
 
 >模型运行不稳定。我将继续完善该模型！！
