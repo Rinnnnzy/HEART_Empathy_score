@@ -12,7 +12,7 @@
 
 ## 具体工作内容：
 1. 根据[HEART分类法](https://arxiv.org/abs/2405.17633)设计文本共情力评分指标
-2. 运用deepeval搭建好的DAG算法框架构建评分框架
+2. 运用[deepeval](https://github.com/confident-ai/deepeval)搭建好的DAG算法框架构建评分框架
 
 
 ## 最终成果：
