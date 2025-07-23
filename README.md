@@ -1,5 +1,5 @@
 # HEART 共情力打分模型
-![模型演示]()
+![模型演示](https://github.com/Rinnnnzy/HEART_Empathy_score/blob/main/%E8%AF%84%E5%88%86%E6%BC%94%E7%A4%BA.gif)
 
 ## 项目背景：
 在社交媒体上，人们热衷分析人生经历与感悟。高热度文章常以触发情绪、引发共鸣的文字为特征。
